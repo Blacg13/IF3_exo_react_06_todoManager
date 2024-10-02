@@ -1,0 +1,16 @@
+.divForm {
+    padding: 2em;
+    border-radius: 0.8em;
+    background-color: #EDB458;
+    min-width: 350px;
+    max-width: 900px;
+    min-height: 300px;
+    }
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+}
+.btnSubmit {
+    margin: 1em;
+}

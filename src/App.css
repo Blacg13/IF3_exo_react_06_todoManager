@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  /* text-align: center; */
+  /* https://coolors.co/9899a6-312f2f-2b59c3-edb458-f61067 */
+  --primary-color: #EDB458;
+  --gray-color: #9899A6;
+  --red-color: #F61067;
+  --black-color: #312F2F;
+  
+}
+body {
+  
+  background-color: #312F2F;
+}
